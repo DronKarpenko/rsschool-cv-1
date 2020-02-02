@@ -35,3 +35,37 @@
 **Position:** Desing engineer  
 
 ---
+### Projects  
+
+##### Yotube client (2019)  
+
+**Project:** [https://nixon2105.github.io/Youtube-client/](https://nixon2105.github.io/Youtube-client/)  
+**Position:** developer  
+**Environment:** HTML, CSS, JavaScript  
+
+##### Website MoGo (2019)
+
+**Project:** [https://nixon2105.github.io/MoGo/](https://nixon2105.github.io/MoGo/)  
+**Position:** developer  
+**Environment:** HTML, CSS, jQery  
+
+###### Website Activebox (2019)  
+
+**Project:** [https://nixon2105.github.io/Activebox/](https://nixon2105.github.io/Activebox/)  
+**Position:** developer  
+**Environment:** HTML, CSS, jQery  
+
+##### Canvas presentation (2019)  
+
+**Project:** [https://nixon2105.github.io/canvas-presentation/](https://nixon2105.github.io/canvas-presentation/)  
+**Position:** developer, designer  
+**Environment:** HTML, CSS, JavaScript, Reveal 
+
+---
+
+### Education  
+
+**Belarusian State Technological University, Minsk**  
+**Specialist - Mechanical engineer(Сhemical industry)** 
+**English A2**
+
