@@ -272,3 +272,22 @@ a {
   color: #2b2a2c;
   text-transform: uppercase;
 }
+
+/*Footer*/
+
+.footer {
+  text-align: center;
+
+  background-color: #797db8;
+}
+
+.copyright {
+  padding: 10px 0;
+
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+}
+
+.copyright span {
+  color: #2b2a2c;
+}
